@@ -1,0 +1,1 @@
+This is output.txt part of Git Assignment 1.
